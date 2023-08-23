@@ -1,0 +1,12 @@
+/* Aggiungi il CSS per stilizzare gli oggetti */
+.item {
+    width: 50px;
+    height: 50px;
+    background-color: #ccc;
+    border: 1px solid #999;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
